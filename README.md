@@ -4,6 +4,12 @@ A SwiftUI app skeleton driven by XcodeGen: GraphQL over HTTP and WebSocket on `U
 storage, sign-in/register, APNs registration, deep linking from a push tap, and a macOS CI workflow. No domain
 code, no third-party Swift dependencies.
 
+## Screenshots
+
+![Login, register and home with push status (SwiftUI)](docs/screenshots/overview.png)
+
+_These images are illustrative mockups rendered from this repository's documented screens and API shapes, not captures of a running build. Regenerate or replace them with real captures once the app is running._
+
 ## What is included
 
 - `project.yml`: XcodeGen spec (app + unit-test targets, ad-hoc signing for Simulator builds). The `.xcodeproj`
